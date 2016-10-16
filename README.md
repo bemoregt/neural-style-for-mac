@@ -35,8 +35,8 @@ $ sh model/download_model.sh
 
 $ th neural_style.lua -gpu -1 ...
 
-You can also use the CUDA (eGPU or Nvidia Mac)
+ You can also use the CUDA (eGPU or Nvidia Mac)
 
-# th neural_style.lua -gpu 0 ...
+$ th neural_style.lua -gpu 0 ...
 
 Enjoy the deep art ~
