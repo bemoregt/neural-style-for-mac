@@ -39,4 +39,9 @@ $ th neural_style.lua -gpu -1 ...
 
 $ th neural_style.lua -gpu 0 ...
 
+
+# My Youtube demo is here
+https://www.youtube.com/watch?v=FJEtcLNaqCc
+
+
 Enjoy the deep art ~
